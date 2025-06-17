@@ -19,7 +19,7 @@ A **pointer** is a variable that stores the **memory address** of another variab
 ```cpp
 int x = 10;
 int* p = &x; // p holds the address of x
-'''
+cpp'''
 
 
 ###🧷 pointerIntro.cpp
