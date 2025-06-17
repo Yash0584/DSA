@@ -3,11 +3,6 @@
 Welcome to the **Pointers** section of the DSA repository. This folder covers the core concepts and applications of **pointers** in C++, a fundamental tool for efficient memory and data manipulation.
 
 ---
-### Basic Syntax:
-
-```cpp
-int x = 10;
-int* p = &x; // p holds the address of x
 
 ## 📖 What are Pointers?
 
@@ -18,6 +13,7 @@ A **pointer** is a variable that stores the **memory address** of another variab
 - Linked data structures (e.g., linked lists, trees)
 - Efficient function arguments (passing by reference)
 - Low-level memory manipulation
+
 
 ## Contents:
 **🧷 pointerIntro.cpp**
