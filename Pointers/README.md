@@ -20,27 +20,30 @@ A **pointer** is a variable that stores the **memory address** of another variab
 int x = 10;
 int* p = &x; // p holds the address of x
 
-#🧷 pointerIntro.cpp
+---
+
+
+###🧷 pointerIntro.cpp
 Purpose: Demonstrates the declaration, initialization, and basic usage of pointers.
 
 Topics Covered: Pointer declaration, & (address-of) operator, and * (dereference) operator.
 
-#🔁 dereference.cpp
+###🔁 dereference.cpp
 Purpose: Focuses on how to access and manipulate data using pointer dereferencing.
 
 Topics Covered: Dereferencing a pointer to change the value at the memory location.
 
-#🔍 returnType.cpp
+###🔍 returnType.cpp
 Purpose: Shows how functions can return pointers and how returned memory behaves.
 
 Topics Covered: Return types as pointers, returning address of local vs dynamic variables.
 
-#➕ pointerSum.cpp
+###➕ pointerSum.cpp
 Purpose: Implements the two-pointer technique to calculate the sum of an array or pair that meets a condition.
 
 Topics Covered: Two-pointer technique, pointer arithmetic, efficient array traversal.
 
-#🔄 swapByReference.cpp
+###🔄 swapByReference.cpp
 Purpose: Swaps values of two variables using pointers and functions.
 
 Topics Covered: Call by reference using pointers, modifying original variables from a function.
