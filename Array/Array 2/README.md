@@ -25,6 +25,10 @@ This directory contains C++ programs related to **Array** and **Vector** operati
 | `vectorbasic.cpp`      | Shows vector initialization, size vs capacity as we insert elements.                       |
 | `vectorinput.cpp`      | Reads input into a vector and outputs the elements.                                        |
 | `vectortofunction.cpp` | Passes a vector to a function (by value and by reference) and modifies its contents.       |
+| `rotate.cpp`           | Rotates the vector by a given number of steps using reversal of sub-parts of the vector.   |
+| `reversepart.cpp`      | Reverses a specified sub-part of the vector in-place.                                      |
+| `reversecopy.cpp`      | Creates a reversed copy of the entire vector without changing the original.                |
+| `reverse.cpp`          | Reverses the entire vector in-place by swapping elements from both ends.                   |
 
 ---
 
@@ -55,5 +59,3 @@ g++ twosum.cpp -o twosum
 ✅ Finding elements efficiently and analyzing time complexity.
 
 ---
-
-💬 **Happy Coding!** Let me know if you’d also like a short summary of each algorithm's time complexity or a deeper dive into any particular file. 🎯
